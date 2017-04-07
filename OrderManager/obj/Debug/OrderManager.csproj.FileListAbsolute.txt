@@ -1,0 +1,22 @@
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\Debug\OrderManager.exe.config
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\Debug\OrderManager.exe
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\Debug\OrderManager.pdb
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\Debug\EntityFramework.dll
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\Debug\EntityFramework.xml
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\Debug\System.Data.SQLite.xml
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.createOrderForm.resources
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.Main_form.resources
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.productPicker.resources
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.Properties.Resources.resources
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\Debug\wmgCMS.WaterMarkTextBox.resources
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.csproj.GenerateResource.Cache
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.exe
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\Debug\OrderManager.pdb
+C:\Users\relec\Source\Repos\Reactorrrrr\OrderManager\bin\Debug\OrderManager.exe.config
+C:\Users\relec\Source\Repos\Reactorrrrr\OrderManager\obj\Debug\OrderManager.exe
+C:\Users\relec\Source\Repos\Reactorrrrr\OrderManager\obj\Debug\OrderManager.pdb

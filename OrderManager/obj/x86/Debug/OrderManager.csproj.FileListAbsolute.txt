@@ -1,0 +1,42 @@
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\OrderManager.exe.config
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\OrderManager.exe
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\OrderManager.pdb
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\EntityFramework.dll
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\EntityFramework.xml
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\x86\Debug\OrderManager.createOrderForm.resources
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\x86\Debug\OrderManager.Main_form.resources
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\x86\Debug\OrderManager.productPicker.resources
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\x86\Debug\OrderManager.Properties.Resources.resources
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\x86\Debug\wmgCMS.WaterMarkTextBox.resources
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\x86\Debug\OrderManager.csproj.GenerateResource.Cache
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\x86\Debug\OrderManager.exe
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\x86\Debug\OrderManager.pdb
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\obj\x86\Debug\OrderManager.csprojResolveAssemblyReference.cache
+C:\Users\Big\Documents\Visual Studio 2015\Projects\OrderManager\OrderManager\bin\x86\Debug\LiteDB.dll
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\OrderManager.exe.config
+C:\Users\relec\Desktop\OrderManager\OrderManager\obj\x86\Debug\OrderManager.exe
+C:\Users\relec\Desktop\OrderManager\OrderManager\obj\x86\Debug\OrderManager.pdb
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\OrderManager.exe
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\OrderManager.pdb
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\EntityFramework.dll
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\LiteDB.dll
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\System.Data.SQLite.Linq.dll
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\EntityFramework.xml
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\relec\Desktop\OrderManager\OrderManager\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\relec\Desktop\OrderManager\OrderManager\obj\x86\Debug\OrderManager.csprojResolveAssemblyReference.cache
+C:\Users\relec\Desktop\OrderManager\OrderManager\obj\x86\Debug\OrderManager.createOrderForm.resources
+C:\Users\relec\Desktop\OrderManager\OrderManager\obj\x86\Debug\OrderManager.Main_form.resources
+C:\Users\relec\Desktop\OrderManager\OrderManager\obj\x86\Debug\OrderManager.productPicker.resources
+C:\Users\relec\Desktop\OrderManager\OrderManager\obj\x86\Debug\OrderManager.Properties.Resources.resources
+C:\Users\relec\Desktop\OrderManager\OrderManager\obj\x86\Debug\wmgCMS.WaterMarkTextBox.resources
+C:\Users\relec\Desktop\OrderManager\OrderManager\obj\x86\Debug\OrderManager.csproj.GenerateResource.Cache
