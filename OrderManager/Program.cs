@@ -15,15 +15,15 @@ namespace OrderManager
         /// </summary>
         /// INSERT into orders (client_name, client_phone, client_email, product_id, sum, date, comment) values ('Vasiliy', 88005553535, 'vasya@example.kz', '1,2', '200', '2016-12-18 20:17', 'test')
         public static SQLiteConnection DB;
-        public static Main_form mf;
+        public static launcher launcher;
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             AppDomain.CurrentDomain.ProcessExit += new EventHandler(OnProcessExit);
             Application.SetCompatibleTextRenderingDefault(false);
-            mf = new Main_form();
-            Application.Run(mf);
+            launcher = new launcher();
+            Application.Run(launcher);
         }
         static void OnProcessExit(object sender, EventArgs e)
         {

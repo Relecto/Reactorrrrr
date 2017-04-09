@@ -23,16 +23,7 @@ namespace OrderManager
             createOrderBtn.Click += CreateOrderBtn_Click;
             pickDataBaseBtn.Click += pickDataBaseBtn_Click;
 
-            List<OrderInfo> orders = DBManager.getAllOrders();
-            foreach (OrderInfo o in orders) {
-                string[] s = new string[4];
-                s[0] = "multiple";
-                s[1] = o.client_name;
-                s[2] = o.date;
-                s[3] = o.sum.ToString();
-                ListViewItem it = new ListViewItem(s);
-                orderList.Items.Add(it);
-            }
+            //update();
 
             string[] abdya = new string[4];
             abdya[0] = "Повозка";

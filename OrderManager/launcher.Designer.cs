@@ -40,6 +40,7 @@
             this.economicBtn.TabIndex = 0;
             this.economicBtn.Text = "Экономисты";
             this.economicBtn.UseVisualStyleBackColor = true;
+            this.economicBtn.Click += new System.EventHandler(this.economicBtn_Click);
             // 
             // logicBtn
             // 
@@ -49,6 +50,7 @@
             this.logicBtn.TabIndex = 1;
             this.logicBtn.Text = "Будь кто будет";
             this.logicBtn.UseVisualStyleBackColor = true;
+            this.logicBtn.Click += new System.EventHandler(this.logicBtn_Click);
             // 
             // launcher
             // 
