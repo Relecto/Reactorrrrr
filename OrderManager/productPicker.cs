@@ -13,6 +13,7 @@ namespace OrderManager
     public partial class productPicker : Form
     {
         public List<ProductInfo> products1;
+        public ProductInfo prod { get; set; }
 
         public productPicker()
         {
@@ -38,6 +39,7 @@ namespace OrderManager
 
             products1 = DBManager.getAllProducts();
             string[] row = new string[4];
+            listView1.Items.Clear();
             foreach (ProductInfo i in products1)
             {
                 row[0] = i.id.ToString();
@@ -52,9 +54,9 @@ namespace OrderManager
         {
             this.DialogResult = DialogResult.OK;
 
-            ProductInfo prod = DBManager.getProductById(Int32.Parse(listView1.SelectedItems[0].SubItems[0].Text));
+            prod = DBManager.getProductById(int.Parse(listView1.SelectedItems[0].SubItems[0].Text));
 
-            Program.mf.cof.addProducts(prod);
+            //Program.mf.cof.addProducts(prod);
             this.Close();
         }
 
@@ -64,6 +66,11 @@ namespace OrderManager
         }
 
         private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void editSelectedBtn_Click(object sender, EventArgs e)
         {
 
         }

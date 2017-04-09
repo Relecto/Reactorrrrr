@@ -103,6 +103,12 @@
       <DependentUpon>createOrderForm.cs</DependentUpon>
     </Compile>
     <Compile Include="DBManager.cs" />
+    <Compile Include="launcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="launcher.Designer.cs">
+      <DependentUpon>launcher.cs</DependentUpon>
+    </Compile>
     <Compile Include="Main_form.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -124,6 +130,9 @@
     </Compile>
     <EmbeddedResource Include="createOrderForm.resx">
       <DependentUpon>createOrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="launcher.resx">
+      <DependentUpon>launcher.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Main_form.resx">
       <DependentUpon>Main_form.cs</DependentUpon>

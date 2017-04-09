@@ -135,6 +135,7 @@
             this.editSelectedBtn.TabIndex = 8;
             this.editSelectedBtn.Text = "Редактировать выбранный";
             this.editSelectedBtn.UseVisualStyleBackColor = true;
+            this.editSelectedBtn.Click += new System.EventHandler(this.editSelectedBtn_Click);
             // 
             // label3
             // 

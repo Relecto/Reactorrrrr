@@ -35,6 +35,9 @@ namespace OrderManager
             using (var pp = new productPicker())
             {
                 var result = pp.ShowDialog();
+                if (result == DialogResult.OK) {
+                    addProducts(pp.prod);
+                }
             }
         }
 
