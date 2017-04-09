@@ -12,24 +12,25 @@ namespace OrderManager
 {
     public partial class launcher : Form
     {
-        public Main_form mf;
-        public jokeLogisticsForm lf;
+        public mainForm mf;
+        public chemistryForm lf;
 
         public launcher()
         {
             InitializeComponent();
         }
 
-        private void economicBtn_Click(object sender, EventArgs e)
-        {
-            mf = new Main_form();
-            mf.Show();
-        }
-
         private void logicBtn_Click(object sender, EventArgs e)
         {
-            lf = new jokeLogisticsForm();
-            lf.Show();
+            if (comboBox1.GetItemText(comboBox1.SelectedItem).Equals("Экономисты")); {
+                mf = new mainForm();
+                mf.Show();
+            }
+            if (comboBox1.GetItemText(comboBox1.SelectedItem).Equals("Химики")) ;
+            {
+                mf = new mainForm();
+                mf.Show();
+            }
         }
     }
 }

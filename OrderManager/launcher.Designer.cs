@@ -28,23 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.economicBtn = new System.Windows.Forms.Button();
             this.logicBtn = new System.Windows.Forms.Button();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
-            // 
-            // economicBtn
-            // 
-            this.economicBtn.Location = new System.Drawing.Point(12, 12);
-            this.economicBtn.Name = "economicBtn";
-            this.economicBtn.Size = new System.Drawing.Size(126, 23);
-            this.economicBtn.TabIndex = 0;
-            this.economicBtn.Text = "Экономисты";
-            this.economicBtn.UseVisualStyleBackColor = true;
-            this.economicBtn.Click += new System.EventHandler(this.economicBtn_Click);
             // 
             // logicBtn
             // 
-            this.logicBtn.Location = new System.Drawing.Point(12, 41);
+            this.logicBtn.Location = new System.Drawing.Point(12, 39);
             this.logicBtn.Name = "logicBtn";
             this.logicBtn.Size = new System.Drawing.Size(126, 23);
             this.logicBtn.TabIndex = 1;
@@ -52,13 +42,25 @@
             this.logicBtn.UseVisualStyleBackColor = true;
             this.logicBtn.Click += new System.EventHandler(this.logicBtn_Click);
             // 
+            // comboBox1
+            // 
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Экономисты",
+            "Химики"});
+            this.comboBox1.Location = new System.Drawing.Point(12, 12);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(121, 21);
+            this.comboBox1.TabIndex = 2;
+            // 
             // launcher
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.ClientSize = new System.Drawing.Size(259, 168);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.logicBtn);
-            this.Controls.Add(this.economicBtn);
             this.Name = "launcher";
             this.Text = "^, @";
             this.ResumeLayout(false);
@@ -66,8 +68,7 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Button economicBtn;
         private System.Windows.Forms.Button logicBtn;
+        private System.Windows.Forms.ComboBox comboBox1;
     }
 }

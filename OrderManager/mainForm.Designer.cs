@@ -1,6 +1,6 @@
 ﻿namespace OrderManager
 {
-    partial class Main_form
+    partial class mainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -39,6 +39,7 @@
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.createDataBase = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.closeBtn = new System.Windows.Forms.Button();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -131,11 +132,22 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Main_form
+            // closeBtn
+            // 
+            this.closeBtn.Location = new System.Drawing.Point(697, 526);
+            this.closeBtn.Name = "closeBtn";
+            this.closeBtn.Size = new System.Drawing.Size(75, 23);
+            this.closeBtn.TabIndex = 6;
+            this.closeBtn.Text = "Закрыть";
+            this.closeBtn.UseVisualStyleBackColor = true;
+            this.closeBtn.Click += new System.EventHandler(this.closeBtn_Click);
+            // 
+            // mainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(784, 561);
+            this.Controls.Add(this.closeBtn);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.createDataBase);
             this.Controls.Add(this.statusStrip1);
@@ -143,7 +155,7 @@
             this.Controls.Add(this.orderList);
             this.Controls.Add(this.createOrderBtn);
             this.MaximumSize = new System.Drawing.Size(800, 600);
-            this.Name = "Main_form";
+            this.Name = "mainForm";
             this.Text = "Заказы";
             this.Load += new System.EventHandler(this.Main_form_Load);
             this.statusStrip1.ResumeLayout(false);
@@ -166,5 +178,6 @@
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel1;
         private System.Windows.Forms.Button createDataBase;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button closeBtn;
     }
 }

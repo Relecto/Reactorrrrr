@@ -12,12 +12,12 @@ using System.Windows.Forms;
 
 namespace OrderManager
 {
-    public partial class Main_form : Form
+    public partial class mainForm : Form
     {
 
         public createOrderForm cof;
 
-        public Main_form()
+        public mainForm()
         {
             InitializeComponent();
             createOrderBtn.Click += CreateOrderBtn_Click;
@@ -105,6 +105,11 @@ namespace OrderManager
         private void button1_Click(object sender, EventArgs e)
         {
             update();
+        }
+
+        private void closeBtn_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

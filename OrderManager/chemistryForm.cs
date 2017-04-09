@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace OrderManager
 {
-    public partial class jokeLogisticsForm : Form
+    public partial class chemistryForm : Form
     {
-        public jokeLogisticsForm()
+        public chemistryForm()
         {
             InitializeComponent();
         }
