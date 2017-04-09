@@ -22,11 +22,11 @@ namespace OrderManager
 
         private void logicBtn_Click(object sender, EventArgs e)
         {
-            if (comboBox1.GetItemText(comboBox1.SelectedItem).Equals("Экономисты")); {
+            if (comboBox1.GetItemText(comboBox1.SelectedItem).Equals("Экономисты")) {
                 mf = new mainForm();
                 mf.Show();
             }
-            if (comboBox1.GetItemText(comboBox1.SelectedItem).Equals("Химики")) ;
+            if (comboBox1.GetItemText(comboBox1.SelectedItem).Equals("Химики"))
             {
                 mf = new mainForm();
                 mf.Show();
